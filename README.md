@@ -1,2 +1,2 @@
 # Hello_World
-First Repository
+College graduate looking to improve my coding skills.
